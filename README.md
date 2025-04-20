@@ -1,5 +1,7 @@
 # mcp-installer - A MCP Server to install MCP Servers
 
+NOTE: Repo forked from https://github.com/anaisbetts/mcp-installer 
+
 This server is a server that installs other MCP servers for you. Install it, and you can ask Claude to install MCP servers hosted in npm or PyPi for you. Requires `npx` and `uv` to be installed for node and Python servers respectively.
 
 ![image](https://github.com/user-attachments/assets/d082e614-b4bc-485c-a7c5-f80680348793)
